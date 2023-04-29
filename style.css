@@ -1,0 +1,23 @@
+.page-title{
+    text-align: center;
+    font-family: cursive;
+}
+
+.card{
+    border: solid grey 1px;
+    width: 160px ;
+    height: 200px ;
+    border-radius: 30px;
+    text-align: center;
+}
+.card-title{
+    font-family: cursive;
+    color: rgb(80, 69, 69);
+    text-align: center;
+}
+.menu-shop{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
